@@ -1,6 +1,6 @@
 # Stop Coding. Start Engineering.
 
-_A 3-Month engineering program - Production Ready: Engineering Forge._
+_A 3-Month fully remote engineering program - Production Ready: Engineering Forge._
 
 ## The Problem 
 
